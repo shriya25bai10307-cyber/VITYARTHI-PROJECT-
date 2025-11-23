@@ -22,5 +22,5 @@ The meditation app provides users with a desktop-based solution to relax and med
 
 ---
 
-**Author:** Your Name  
-**Date:** YYYY-MM-DD
+**Author:** SHRIYA PARMAR  
+
